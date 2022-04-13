@@ -1,2 +1,3 @@
 # calcJenkins
-calc to learn JenKins pipelines
+calc to learn and practice JenKins pipelines
+using gradle, springBoot
